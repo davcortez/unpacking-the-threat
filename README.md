@@ -1,2 +1,2 @@
-# unpacking-the-threat
-Unpacking the Threat: Malicious Packages in Pypi
+# Unpacking the Threat: Malicious Packages in Pypi
+This presentation covers various aspects of malicious packages in PyPI, including the techniques used by attackers to inject harmful code into legitimate packages, the potential consequences of using these packages in real-world applications, and the challenges that the community faces in identifying and mitigating such threats. Finally, it explores a real-world case study in which a malicious package infiltrated PyPI.
